@@ -20,7 +20,14 @@ The Understanding of these disparities is crucial for uncovering the social and 
 ## Project Workflow 
 ---
 ## Data Source 
----
+
+The dataset used for this project is well known in the data space and is available on kaggle and can be downloaded @https://www.kaggle.com/datasets/brendan45774/test-file
+
+The dataset contains information on **1,309 passengers** out of the 2,224 on board the Titanic, excluding crew members.  
+This provides a suitable sample size for meaningful analysis on survival patterns across different passenger groups.
+___
+
+
 ## Raw Data 
 
 ![Image preview](Raw_dataset.JPG)
