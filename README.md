@@ -31,16 +31,16 @@ ___
 
 ## Raw Data 
 
-The downloaded dataset was imported into Microsoft Excel and it opened in its raw form as shown below with 14 columns of raw passenger information requiring cleaning for further analysis.
+The downloaded dataset was imported into Microsoft Excel and opened in its raw form as shown below with 14 columns of raw passenger information requiring cleaning for further analysis.
 
 ![Image preview](Raw_dataset.JPG)
 
 The information in each column above represents the following features:
 
-1. **class** — Passenger Class (1 = 1st; 2 = 2nd; = 3rd)  
-2. **survival** — Survival (0 = No; 1 = Yes)  
+1. **pclass** — Passenger Class (1 = 1st; 2 = 2nd; = 3rd)  
+2. **survived** — Survival (0 = No; 1 = Yes)  
 3. **name** — Name  
-4. **sex** — Sex  
+4. **sex** — Sex  ( M or F)
 5. **age** — Age  
 6. **sibsp** — Number of Siblings/Spouses Aboard  
 7. **parch** — Number of Parents/Children Aboard  
