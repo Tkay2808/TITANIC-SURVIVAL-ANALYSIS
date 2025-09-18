@@ -54,6 +54,53 @@ The information in each column above represents the following features:
 
 ---
 ## Data Cleaning Process 
+
+The Titanic dataset required several cleaning steps to prepare it for analysis. Below is the structured **step-by-step process**:  
+
+1. **Initial Inspection**  
+   - Applied filters on each column to understand the dataset and identify issues.  
+
+2. **Column Renaming & Replacements**  
+   - Renamed **Passenger Class** column → *1st, 2nd, 3rd class*.  
+   - Replaced **Survival Status** codes → *1 = Survived, 0 = Victim*.  
+
+3. **Name Standardization**  
+   - Split the *Name* column into *Title, First Name, Last Name* (using *Text-to-Columns*).  
+   - Reconstructed the full name using the *CONCAT/CONCATENATE* function.  
+
+4. **Gender Standardization**  
+   - Converted all values in the *Sex* column to **Proper Case** (e.g., *male → Male*, *female → Female*).  
+
+5. **Handling Missing Ages**  
+   - Found **263 missing ages** out of 1,309 records (~20%).  
+   - Since missing values were < 30%, imputed them using the **Median Age = 28**.  
+   - Median was chosen as it is resistant to outliers.  
+
+6. **Family Size Feature Creation**  
+   - Created a new **Family Members** column by adding:  
+     `sibsp + parch`.  
+
+7. **Ticket Column**  
+   - Dropped the *Ticket Number* column as it was not relevant for analysis.  
+
+8. **Fare Column**  
+   - Rounded fares to the nearest whole number and added currency (euros).  
+   - Note: Historical reference suggests **3rd class tickets cost ~3–8 euros** in 1912.  
+   - Passengers with **0 fare** were assumed to have boarded illegally or under special cases.  
+
+9. **Cabin Column**  
+   - Dropped the *Cabin* column since **1,014 cells (~77%)** were empty.  
+
+10. **Boat & Body Columns**  
+    - Deleted both columns since missing values were > 70% and not relevant to the analysis.  
+
+11. **Embarked Column**  
+    - Renamed column to **Port Embarked From**.  
+    - Replaced codes with full names:  
+      - **S → Southampton**  
+      - **C → Cherbourg**  
+      - **Q → Queenstown**
+
 ---
 ## Cleaned Data 
 
