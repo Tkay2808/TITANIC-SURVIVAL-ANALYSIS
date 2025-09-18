@@ -31,13 +31,15 @@ The Understanding of these disparities is crucial for uncovering the social and 
 
 ![Image preview](Cleaned_dataset.JPG)
 ---
-## Analysis and Calculations 
+## Analysis and Calculations
+
+![Image preview](E.D.A.JPG)
 --
 ## KPI's 
 ---
 ## Data Visualization (Dashboard) 
 
-![Image preview](Titanic__Dashboard.JPG)
+![Image preview](Titanic__Dashboard.jpg)
 
 ---
 ## Insights 
