@@ -28,12 +28,17 @@ The Understanding of these disparities is crucial for uncovering the social and 
 ## Data Cleaning Process 
 ---
 ## Cleaned Data 
+
+![Image preview](Cleaned_dataset.JPG)
 ---
 ## Analysis and Calculations 
 --
 ## KPI's 
 ---
 ## Data Visualization (Dashboard) 
+
+![Image preview](Titanic__Dashboard.JPG)
+
 ---
 ## Insights 
 ---
