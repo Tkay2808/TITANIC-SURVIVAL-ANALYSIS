@@ -31,7 +31,27 @@ ___
 
 ## Raw Data 
 
+The downloaded dataset was imported into Microsoft Excel and it opened in its raw form as shown below with 14 columns of raw passenger information requiring cleaning for further analysis.
+
 ![Image preview](Raw_dataset.JPG)
+
+The information in each column above represents the following features:
+
+1. **class** — Passenger Class (1 = 1st; 2 = 2nd; = 3rd)  
+2. **survival** — Survival (0 = No; 1 = Yes)  
+3. **name** — Name  
+4. **sex** — Sex  
+5. **age** — Age  
+6. **sibsp** — Number of Siblings/Spouses Aboard  
+7. **parch** — Number of Parents/Children Aboard  
+8. **ticket** — Ticket Number  
+9. **fare** — Passenger Fare  
+10. **cabin** — Cabin  
+11. **embarked** — Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)  
+12. **boat** — Lifeboat (if survived)  
+13. **body** — Body number (if did not survive and body was recovered)  
+14. **home_dest** — Destination
+
 ---
 ## Data Cleaning Process 
 ---
