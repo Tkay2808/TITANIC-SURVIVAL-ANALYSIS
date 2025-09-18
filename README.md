@@ -39,7 +39,7 @@ The Understanding of these disparities is crucial for uncovering the social and 
 ---
 ## Data Visualization (Dashboard) 
 
-![Image preview](Titanic__Dashboard.jpg)
+![Dashboard preview](Titanic_Dashboard.jpg)
 
 ---
 ## Insights 
