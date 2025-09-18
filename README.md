@@ -35,7 +35,7 @@ The downloaded dataset was imported into Microsoft Excel and opened in its raw f
 
 ![Image preview](Raw_dataset.JPG)
 
-The information in each column above represents the following features:
+The information in each column above has the following features:
 
 1. **pclass** — Passenger Class (1 = 1st; 2 = 2nd; = 3rd)  
 2. **survived** — Survival (0 = No; 1 = Yes)  
@@ -74,7 +74,9 @@ The Titanic dataset required several cleaning steps to prepare it for analysis. 
 5. **Handling Missing Ages**  
    - Found **263 missing ages** out of 1,309 records (~20%).  
    - Since missing values were < 30%, imputed them using the **Median Age = 28**.  
-   - Median was chosen as it is resistant to outliers.  
+   - Median was chosen as it is resistant to outliers. 
+   - created the age- group column,to categories the ages of passengers using the IF function to assign each passenger to an age group.
+   - (0 - 16= Children,17 - 33 = Youths,34 - 50 = Adults,51 -64 = Middle Aged,65+ = Elderlys)
 
 6. **Family Size Feature Creation**  
    - Created a new **Family Members** column by adding:  
@@ -108,13 +110,22 @@ The Titanic dataset required several cleaning steps to prepare it for analysis. 
 ![Image preview](Cleaned_dataset.JPG)
 
 
-After general cleaning the dataset became **structured, consistent, and ready for meaningful survival analysis.**
+After general cleaning the dataset became **structured, consistent, and ready for further analysis.** to draw insight and identify patterns 
 
 ---
 
 ## Analysis and Calculations
 
+Pivot tables and charts where used for analysis and calculations of KPI's and other metrics like
+
+   - Survivors by Passenger Class
+
+   - Survivors by Gender
+
+   - Survivors by Age group 
+
 ![Image preview](E.D.A.JPG)
+
 --
 ## KPI's 
 ---
