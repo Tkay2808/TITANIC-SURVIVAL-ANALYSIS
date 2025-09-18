@@ -1,5 +1,7 @@
 # TITANIC-SURVIVAL-ANALYSIS
-#### "Exploratory analysis with Microsoft Excel to uncover factors influencing Titanic survival rates"
+#### " An Exploratory Dashboard analysis with Microsoft Excel to uncover factors that influenced Titanic survival rates"
+
+ <p align= "center">![Image Preview](Excel_logo.PNG)
 
 ---
 ## Introduction 
