@@ -22,6 +22,8 @@ The Understanding of these disparities is crucial for uncovering the social and 
 ## Data Source 
 ---
 ## Raw Data 
+
+![Image preview](Raw_dataset.JPG)
 ---
 ## Data Cleaning Process 
 ---
