@@ -1,4 +1,4 @@
-# TITANIC-SURVIVAL-ANALYSIS
+<# TITANIC-SURVIVAL-ANALYSIS
 #### " An Exploratory Dashboard analysis with Microsoft Excel to uncover factors that influenced Titanic survival rates"
 
 ![Image Preview](Excel_logo.png)
@@ -102,10 +102,16 @@ The Titanic dataset required several cleaning steps to prepare it for analysis. 
       - **Q → Queenstown**
 
 ---
+
 ## Cleaned Data 
 
 ![Image preview](Cleaned_dataset.JPG)
+
+
+After general cleaning the dataset became **structured, consistent, and ready for meaningful survival analysis.**
+
 ---
+
 ## Analysis and Calculations
 
 ![Image preview](E.D.A.JPG)
