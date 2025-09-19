@@ -1,8 +1,6 @@
-<# TITANIC-SURVIVAL-ANALYSIS
-#### " An Exploratory Dashboard analysis with Microsoft Excel to uncover factors that influenced Titanic survival rates"
-
-![Image Preview](Excel_logo.png)
-
+# Titanic Survival Analysis 
+#### " A Microsoft Excel analysis to uncover factors that influenced Titanic survival rates"
+![Image](Excel_logo.png)
 ---
 ## Introduction 
 On April 15, 1912,approximately 113 years ago the RMS Titanic sank during its maiden voyage from Southampton,England to Newyork after colliding with an iceberg in the North Atlantic Ocean.
@@ -18,6 +16,7 @@ The Understanding of these disparities is crucial for uncovering the social and 
 
 ---
 ## Project Workflow 
+![Image](Project_Workflow.jpg)
 ---
 ## Data Source 
 
@@ -129,10 +128,20 @@ Pivot tables and charts where used for analysis and calculations of KPI's and ot
 --
 ## KPI's 
 ![Image preview](KPI's.jpg)
+### Interpretation  
+
+- A total of **1,309 passengers** were onboard the Titanic.  
+- The **survival rate was 38%**, meaning just over one-third of passengers survived.  
+- The **death rate was 68%**, indicating that more than two-thirds of passengers perished, highlighting the tragedy’s scale.  
+- The **average passenger age was 30 years**, suggesting that most onboard were relatively young adults.  
+
+- ### The KPI's reflect the severity of the disaster, with a low survival ratio as compared to the death ratio and predominantly young passengers on board.
+
 ---
 ## Data Visualization (Dashboard) 
 
 ![Dashboard preview](Titanic_Dashboard.jpg)
+### Exploratory Dashboard
 
 ---
 ## Insights 
