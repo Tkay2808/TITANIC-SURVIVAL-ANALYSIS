@@ -128,6 +128,7 @@ Pivot tables and charts where used for analysis and calculations of KPI's and ot
 
 --
 ## KPI's 
+![Image preview](KPI's.JPG)
 ---
 ## Data Visualization (Dashboard) 
 
