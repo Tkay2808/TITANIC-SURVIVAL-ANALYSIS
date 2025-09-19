@@ -12,7 +12,7 @@ This project revisits the tragedic event of 1912 through data analysis to uncove
 ## Problem Statement 
 Despite the reported 2,224 passengers she was carrying, survival chances aboard the Titanic were not evenly distributed. Apparently, When the distress call was made factors such as P assenger class, gender, and age appeared to have played a significant role in determining who lived and who perished. 
 
-The Understanding of these disparities is crucial for uncovering the social and structural dynamics that influenced survival during this tragedy. Hence, the aim of this analysis is to investigate how facrors such as passengers class, gender and age on influence survival rate. 
+The Understanding of these disparities is crucial for uncovering the social and structural dynamics that influenced survival during this tragedy. Hence, the aim of this analysis is to investigate how factors such as passengers class, gender and age influence survival rate. 
 
 ---
 ## Project Workflow 
