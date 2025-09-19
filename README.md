@@ -39,7 +39,7 @@ The information in each column above has the following features:
 1. **pclass** — Passenger Class (1 = 1st; 2 = 2nd; = 3rd)  
 2. **survived** — Survival (0 = No; 1 = Yes)  
 3. **name** — Name  
-4. **sex** — Sex  ( M or F)
+4. **sex** — Sex  ( Male or Female)
 5. **age** — Age  
 6. **sibsp** — Number of Siblings/Spouses Aboard  
 7. **parch** — Number of Parents/Children Aboard  
@@ -136,7 +136,7 @@ Pivot tables and charts where used for analysis and calculations of KPI's and ot
 - The **death rate was 68%**, indicating that more than two-thirds of passengers perished, highlighting the tragedy’s scale.  
 - The **average passenger age was 30 years**, suggesting that most onboard were relatively young adults.  
 
-- ### The KPI's reflect the severity of the disaster, with a low survival ratio as compared to the death ratio and predominantly young passengers on board.
+- #### The KPI's reflect the severity of the disaster, with a low survival ratio as compared to the death ratio and predominantly young passengers on board.
 
 ---
 ## Data Visualization (Dashboard) 
@@ -192,7 +192,7 @@ The analysis of the Titanic dataset highlights how survival was **unevenly distr
 - **Men**, especially those from third class, faced overwhelming losses.  
 - **Class privilege** and **physical access to lifeboats** played a decisive role in determining life or death outcomes.  
 
-Overall, the tragedy reflects how **social structures and inequalities** directly influenced survival during the disaster, turning a maritime accident into a profound lesson on human vulnerability and privilege.  
+- Overall, the tragedy reflects how **social structures and inequalities** directly influenced survival during the disaster, turning a maritime accident into a profound lesson on human vulnerability and privilege.  
 ---
 ## Limitation 
 
