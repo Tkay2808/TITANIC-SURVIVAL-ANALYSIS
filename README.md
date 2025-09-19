@@ -128,8 +128,8 @@ Pivot tables and charts where used for analysis and calculations of KPI's and ot
 ---
 
 ## KPI's 
-![Image preview](KPI's.jpg)
-### Interpretation  
+
+![Image preview](KPI's.jpg) 
 
 - A total of **1,309 passengers** were onboard the Titanic.  
 - The **survival rate was 38%**, meaning just over one-third of passengers survived.  
@@ -173,7 +173,7 @@ Pivot tables and charts where used for analysis and calculations of KPI's and ot
 
 - **Elderly (65+ years):** Most vulnerable, with only **2 survivors** compared to **11 deaths**, reflecting physical limitations in the chaos.
 
- ## Summary   
+ #### Summary   
 The Titanic disaster starkly revealed how **age, gender, and social class shaped survival chances**.  
 
 - Women and children were prioritized, especially in higher classes.  
@@ -200,7 +200,7 @@ While this analysis offers key insights, it is important to recognize certain li
  
 1. **Incomplete Data** – The dataset covers only **1,309 passengers out of 2,224**, excluding crew members, which limits the completeness of the analysis.  
 
-2. ** The analysis only covers Class,gender and Age,other metrics such as Fare,family size was not covered,which could also has an effect on survivors.
+2. The analysis only covers Class,gender and Age,other metrics such as Fare,family size was not covered,which could also has an effect on survivors.
    
 3. **Contextual Gaps** – Statistical findings cannot fully capture the emotional, cultural, or situational factors that shaped individual survival.  
 
