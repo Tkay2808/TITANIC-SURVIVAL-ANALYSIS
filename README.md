@@ -125,7 +125,8 @@ Pivot tables and charts where used for analysis and calculations of KPI's and ot
 
 ![Image preview](E.D.A.JPG)
 
---
+---
+
 ## KPI's 
 ![Image preview](KPI's.jpg)
 ### Interpretation  
@@ -149,15 +150,16 @@ Pivot tables and charts where used for analysis and calculations of KPI's and ot
 ![image preview](Survivors_class.png)
 
 ### 1. Survivors by Class  
-- **First Class:** Best survival outcomes (**200 survived vs 123 perished**) due to proximity to lifeboats and quicker access to the deck.  
+- **First Class:** First class passengers go had the best survival outcomes (**200 survived vs 123 perished**) due to proximity to lifeboats and quicker access to the deck.  
+
 - **Second Class:** Mixed results (**119 survived vs 158 perished**) reflecting their intermediate position onboard.  
-- **Third Class:** Most disadvantaged (**528 deaths vs 181 survivors**). Barriers, lower-deck locations, and class divisions critically reduced their chances.  
+- **Third Class:** The 3rd class passengers were the most disadvantaged (**528 deaths vs 181 survivors**).lower-deck locations, and class divisions critically reduced their chances survival.  
 ---
 
 ![image preview](Survivors_gender.jpg)
 
 ### 2. Survivors by Gender  
-- **Females:** Significantly higher survival rate (**339 survived vs 127 perished**) due to the "women and children first" policy.  
+- **Females:** Significantly had higher survival rate (**339 survived vs 127 perished**) due to the "women and children first" policy.  
 - **Males:** Disproportionately affected (**682 deaths vs 161 survivors**), making up the majority of victims.  
 
 ---
@@ -165,8 +167,10 @@ Pivot tables and charts where used for analysis and calculations of KPI's and ot
 ![image preview](Survivors_age.jpg)
 
 ### 3. Survivors by Age Group  
-- **Youths (17–33 years):** Largest group onboard but also the highest number of deaths (**532 victims vs 280 survivors**). Being young did not guarantee survival, likely due to limited access to lifeboats.  
+- **Youths (17–33 years):*** The youths were the largest group onboard but also had the highest number of deaths (**532 victims vs 280 survivors**). Being young did not guarantee survival,and likely due to limited access to lifeboats.  
+
 - **Children (0–16 years):** Higher survival chance (**74 survived vs 60 perished**), suggesting they were prioritized during evacuation.  
+
 - **Elderly (65+ years):** Most vulnerable, with only **2 survivors** compared to **11 deaths**, reflecting physical limitations in the chaos.
 
  ## Summary   
@@ -176,12 +180,30 @@ The Titanic disaster starkly revealed how **age, gender, and social class shaped
 - Men, particularly young men in third class, bore the greatest losses.  
 - First-class passengers benefitted from privilege and proximity, while third-class passengers suffered from both **physical barriers** and **social inequalities**.  
 
-> This tragedy is not just statistics — it reflects the harsh reality of structural inequality in a life-and-death situation.  
+*This tragedy is not just statistics — it reflects the harsh reality of structural inequality in a life-and-death situation*
 
 ---
 ## Conclusion
+
+The analysis of the Titanic dataset highlights how survival was **unevenly distributed across age, gender, and class**.
+  
+- **Women and children**, particularly those in higher classes, had the highest chances of survival. 
+ 
+- **Men**, especially those from third class, faced overwhelming losses.  
+- **Class privilege** and **physical access to lifeboats** played a decisive role in determining life or death outcomes.  
+
+Overall, the tragedy reflects how **social structures and inequalities** directly influenced survival during the disaster, turning a maritime accident into a profound lesson on human vulnerability and privilege.  
 ---
 ## Limitation 
+
+While this analysis offers key insights, it is important to recognize certain limitations: 
+ 
+1. **Incomplete Data** – The dataset covers only **1,309 passengers out of 2,224**, excluding crew members, which limits the completeness of the analysis.  
+
+2. ** The analysis only covers Class,gender and Age,other metrics such as Fare,family size was not covered,which could also has an effect on survivors.
+   
+3. **Contextual Gaps** – Statistical findings cannot fully capture the emotional, cultural, or situational factors that shaped individual survival.  
+
 ---
 ## About 
 
