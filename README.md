@@ -136,11 +136,11 @@ Pivot tables and charts where used for analysis and calculations of KPI's and ot
 
 ---
 ## Insights 
-![image preview](survivors_class.jpg)
+![image preview](Survivors_class.jpg)
 
-![image preview](survivors_gender.png)
+![image preview](Survivors_gender.png)
 
-![image preview](survivors_age.jpg)
+![image preview](Survivors_age.jpg)
 
 ---
 ## Conclusion
